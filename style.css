@@ -1,0 +1,49 @@
+.navbar {
+    background-color:maroon;
+}
+#navbar-nav {
+    float:right;
+}
+.box {
+    position:relative;
+    text-align:center;
+    color:white;
+}
+.centered {
+    text-align:left;
+    position:absolute;
+    top:50%;
+    bottom:50%;
+}
+#mark {
+    color: rgba(233, 216, 216, 0.5);
+}
+.about2 {
+    color:navy;
+    margin:3% 0 12% 3%;
+    padding:0 5% 0 3%;
+    text-align:left;
+    border-left:solid maroon;
+}
+.h {
+    text-align:center;
+    color:navy;
+}
+
+.row {
+    padding:3%;
+    margin:3%;
+}
+.math {
+   padding:9px;
+    
+}
+.card-title {
+    color:navy;
+}
+.card-link:link{
+    text-decoration:underline;
+}
+.card {
+   padding:2px;
+}
